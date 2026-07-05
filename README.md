@@ -43,7 +43,7 @@ Ensure you have Python 3.8+ installed on your machine.
 Clone the repository to your local machine:
 
 Bash
-git clone https://github.com/yourusername/Discord-Quest-Completer.git
+git clone https://github.com/noblegoi617-hue/Discord-Quest-Completer.git
 cd Discord-Quest-Completer
 Install the required dependencies:
 
